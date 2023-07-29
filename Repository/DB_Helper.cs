@@ -6,7 +6,7 @@ using System.Data.SqlClient;
 public class DB_Helper
 {
     private List<SqlParameter> parametros;
-    private readonly string connectionString = "Data Source=DESKTOP-3B8HFO6\\SQLEXPRESS;Initial Catalog=SistemaGestion;Integrated Security=True";
+    private readonly string connectionString = //Coloca aquí tu string de conección;
 
     public DB_Helper()
     {
