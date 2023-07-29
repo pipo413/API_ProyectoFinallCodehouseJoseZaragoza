@@ -23,7 +23,7 @@ Fue realizada como proyecto de finalización del curso de Coderhouse C#, con los
 1. Clona este repositorio en tu máquina local utilizando el siguiente comando:
 
    ```
-   git clone https://github.com/TuUsuario/API-UsuariosCH.git
+   git clone https://github.com/pipo413/API_ProyectoFinallCodehouseJoseZaragoza.git
    ```
 
 2. Abre el proyecto en Visual Studio.
