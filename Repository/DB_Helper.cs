@@ -6,7 +6,7 @@ using System.Data.SqlClient;
 public class DB_Helper
 {
     private List<SqlParameter> parametros;
-    private readonly string connectionString = //Coloca aquí tu string de conección;
+    private readonly string connectionString = //Coloca aquí tu string de conexión;
 
     public DB_Helper()
     {
