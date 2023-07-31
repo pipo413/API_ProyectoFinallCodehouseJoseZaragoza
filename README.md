@@ -29,7 +29,7 @@ Fue realizada como proyecto de finalización del curso de Coderhouse C#, con los
 2. Abre el proyecto en Visual Studio.
 
 3. Restaura los paquetes NuGet si es necesario.
-4. Coloca tu connectionString en el archivo Repository/DB_Helper.cs ```private readonly string connectionString = //Coloca aquí tu string de conección;```
+4. Coloca tu connectionString en el archivo Repository/DB_Helper.cs ```private readonly string connectionString = //Coloca aquí tu string de conexión;```
 4. Compila el proyecto y asegúrate de que no hay errores.
 
 5. Ejecuta la aplicación en Visual Studio.
